@@ -159,7 +159,7 @@
     <key alias="macroDoesNotHaveProperties">This macro does not contain any properties you can edit</key>
     <key alias="paste">Paste</key>
     <key alias="permissionsEdit">Edit Permissions for</key>
-    <key alias="recycleBinDeleting">The items in the recycle bin is now being deleted. Please do not close this window while this operation takes place</key>
+    <key alias="recycleBinDeleting">The items in the recycle bin are now being deleted. Please do not close this window while this operation takes place</key>
     <key alias="recycleBinIsEmpty">The recycle bin is now empty</key>
     <key alias="recycleBinWarning">When items are deleted from the recycle bin, they will be gone forever</key>
     <key alias="regexSearchError"><![CDATA[<a target='_blank' href='http://regexlib.com'>regexlib.com</a>'s webservice is currently experiencing some problems, which we have no control over. We are very sorry for this inconvenience.]]></key>
@@ -203,8 +203,8 @@
   <area alias="editdatatype">
     <key alias="addPrevalue">Add prevalue</key>
     <key alias="dataBaseDatatype">Database datatype</key>
-    <key alias="guid">Data Editor GUID</key>
-    <key alias="renderControl">Render control</key>
+    <key alias="guid">Property editor GUID</key>
+    <key alias="renderControl">Property editor</key>
     <key alias="rteButtons">Buttons</key>
     <key alias="rteEnableAdvancedSettings">Enable advanced settings for</key>
     <key alias="rteEnableContextMenu">Enable context menu</key>
@@ -643,7 +643,7 @@ To manage your website, simply open the umbraco back office and start adding con
     <key alias="paIsProtected">%0% is now protected</key>
     <key alias="paIsRemoved">Protection removed from %0%</key>
     <key alias="paLoginPage">Login Page</key>
-    <key alias="paLoginPageHelp">Choose the page that has the login formular</key>
+    <key alias="paLoginPageHelp">Choose the page that has the login form</key>
     <key alias="paRemoveProtection">Remove Protection</key>
     <key alias="paSelectPages">Select the pages that contain login form and error messages</key>
     <key alias="paSelectRoles">Pick the roles who have access to this page</key>
@@ -734,7 +734,7 @@ To manage your website, simply open the umbraco back office and start adding con
     <key alias="sortPleaseWait"><![CDATA[ Please wait. Items are being sorted, this can take a while.<br/> <br/> Do not close this window during sorting]]></key>
   </area>
   <area alias="speechBubbles">
-    <key alias="contentPublishedFailedByEvent">Publising was cancelled by a 3rd party add-in</key>
+    <key alias="contentPublishedFailedByEvent">Publishing was cancelled by a 3rd party add-in</key>
     <key alias="contentTypeDublicatePropertyType">Property type already exists</key>
     <key alias="contentTypePropertyTypeCreated">Property type created</key>
     <key alias="contentTypePropertyTypeCreatedText"><![CDATA[Name: %0% <br /> DataType: %1%]]></key>
@@ -748,13 +748,15 @@ To manage your website, simply open the umbraco back office and start adding con
     <key alias="cssSavedText">Stylesheet saved without any errors</key>
     <key alias="dataTypeSaved">Datatype saved</key>
     <key alias="dictionaryItemSaved">Dictionary item saved</key>
-    <key alias="editContentPublishedFailedByParent">Publising failed because the parent page isn't published</key>
+    <key alias="editContentPublishedFailedByParent">Publishing failed because the parent page isn't published</key>
     <key alias="editContentPublishedHeader">Content published</key>
     <key alias="editContentPublishedText">and visible at the website</key>
     <key alias="editContentSavedHeader">Content saved</key>
     <key alias="editContentSavedText">Remember to publish to make changes visible</key>
     <key alias="editContentSendToPublish">Sent For Approval</key>
     <key alias="editContentSendToPublishText">Changes have been sent for approval</key>
+    <key alias="editMediaSaved">Media saved</key>
+    <key alias="editMediaSavedText"></key>
     <key alias="editMemberSaved">Member saved</key>
     <key alias="editStylesheetPropertySaved">Stylesheet Property Saved</key>
     <key alias="editStylesheetSaved">Stylesheet saved</key>
